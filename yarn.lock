@@ -5013,9 +5013,9 @@ react-native-device-info@^5.5.4:
   version "5.5.4"
   resolved "https://registry.npm.taobao.org/react-native-device-info/download/react-native-device-info-5.5.4.tgz#470770db4e8a35c55b8269473d81790102074057"
 
-react-native-fast-image@7.0.2:
-  version "7.0.2"
-  resolved "https://registry.npm.taobao.org/react-native-fast-image/download/react-native-fast-image-7.0.2.tgz#e06b21f42f4a9786eaa86f3db35d919070fb8403"
+react-native-fast-image@8.3.0:
+  version "8.3.0"
+  resolved "https://registry.yarnpkg.com/react-native-fast-image/-/react-native-fast-image-8.3.0.tgz#5821fac5e8759b3a87628600522eb72c579b0b9f"
 
 react-native-gesture-handler@^1.6.1:
   version "1.6.1"
